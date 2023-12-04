@@ -117,6 +117,6 @@ jobs:
         item-id: ${{ steps.get-item-id.outputs.project-item-id }}
         field-keys: Progress,Baking session,Diet,Priority,Kids friendly,
         # ProjectV2SingleSelectField values for the fields above
-        # Empty, Baking session 1,None,No
+        # Empty, Baking session 1, None, Yes
         field-values: >
-          db51cdbf,[1],ff4b2ae0,c858c894
+          cf72b6e9,[1],41f02bab,e738aad1,18da5b27

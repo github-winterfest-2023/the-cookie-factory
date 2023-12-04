@@ -37,7 +37,7 @@ jobs:
               field-keys: Progress
               # 🔵⚪️⚪️⚪️⚪️
               field-values: >
-                cd8ab760
+                cbda030a
 
         - uses: titoportas/update-project-fields@v0.1.0
           name: Baking 🔵🔵⚪️⚪️⚪️
@@ -48,7 +48,7 @@ jobs:
               field-keys: Progress
               # 🔵🔵⚪️⚪️⚪️
               field-values: >
-                ccba7a07
+                58ddbefe
 
         - uses: titoportas/update-project-fields@v0.1.0
           name: Baking 🔵🔵🔵⚪️⚪️
@@ -59,7 +59,7 @@ jobs:
               field-keys: Progress
               # 🔵🔵🔵⚪️⚪️
               field-values: >
-                293677f1
+                025fcf4e
 
         - uses: titoportas/update-project-fields@v0.1.0
           name: Baking 🔵🔵🔵🔵⚪️
@@ -70,7 +70,7 @@ jobs:
               field-keys: Progress
               # 🔵🔵🔵🔵⚪️
               field-values: >
-                a2258a8c
+                5789545f
 
         - uses: titoportas/update-project-fields@v0.1.0
           name: Baking 🍪🍪🍪🍪🍪
@@ -81,7 +81,7 @@ jobs:
               field-keys: Progress
               # 🍪🍪🍪🍪🍪
               field-values: >
-                aaed8b4c
+                fc8a56e6
 
         - uses: peter-evans/close-issue@v2
           name: Close Issue
