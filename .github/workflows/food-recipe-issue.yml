@@ -110,5 +110,8 @@ jobs:
         field-keys: Progress,Baking session,Diet,Priority,Kids friendly,
         # ProjectV2SingleSelectField values for the fields above
         # Empty, Baking session 1, None, Yes
+        #
+        # The ProjectV2SingleSelectField values id can be in the docs:
+        # https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/using-the-api-to-manage-projects#finding-the-node-id-of-a-field
         field-values: >
           cf72b6e9,[1],41f02bab,e738aad1,18da5b27
