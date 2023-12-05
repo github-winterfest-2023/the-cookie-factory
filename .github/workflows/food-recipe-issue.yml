@@ -71,7 +71,7 @@ jobs:
     - name: Update issue picture in body
       run: |
         cat << EOF > issue-body.md
-          ![${{ steps.get-issue-title.outputs.issueTitle }}](${{ steps.get-issue-recipe.outputs.issueTitlePicture }})"
+          ![${{ steps.get-issue-title.outputs.issueTitle }}](${{ steps.get-issue-recipe.outputs.issueTitlePicture }})
           
           # ${{ steps.get-issue-title.outputs.issueTitle }}
           
