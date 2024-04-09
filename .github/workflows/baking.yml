@@ -3,6 +3,7 @@ name: Baking cookies - Simulation
 on:
   issues:
     types: [labeled]
+  workflow_dispatch:
     
 jobs:
   baking-cookies:
